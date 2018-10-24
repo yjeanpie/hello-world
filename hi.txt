@@ -1,1 +1,3 @@
 hello class! welcome to learning git
+
+it is really fun!
